@@ -3,7 +3,7 @@ This project is focused on providing the service of buying NFT tokens safely due
 
 # Required technologies to Web App 
 
-Diseño basado en CS3
+Diseño basado en CS3 
 HTML JavaScript y React - rebassjs, style component, redux.js, Tailwind CSS o Bulma
 Web App Near Wallet 
 Fleek (IPFS gateway)
